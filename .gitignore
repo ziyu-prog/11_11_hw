@@ -1,0 +1,12 @@
+# CIFAR-10 数据文件，不提交
+data/
+cifar10/
+
+# 临时下载脚本
+download_cifar.py
+fast_download.py
+
+# Python
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
